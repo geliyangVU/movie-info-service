@@ -20,3 +20,9 @@ Movie{
 }
 
 ```
+
+
+Tomcat Port: 8085 
+API example: http://localhost:8085/movies/{movieId}
+
+endpoint /movies/{movieId}
